@@ -1,0 +1,46 @@
+.info{
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+}
+#number{
+    float: left;
+    width: 33%;
+}
+#number img{
+    max-width: 10%;
+    user-select: none;
+}
+#email{
+    width: 33%;
+    float: left;
+}
+#email img{
+    max-width: 10%;
+    user-select: none;
+}
+#email a{
+    text-decoration: none;
+    color: aqua;
+}
+#send{
+    width: 33%;
+    float: left;
+}
+#send button{
+    padding: 10px 20px;
+    background-color: #424141;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 14px;
+}
+#sendbutton:hover {
+    background-color: #2b2b2b;
+}
+#send img{
+    max-width: 10%;
+    user-select: none;
+}
