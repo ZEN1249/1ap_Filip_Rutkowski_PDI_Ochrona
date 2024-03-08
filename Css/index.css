@@ -107,3 +107,14 @@ body.dark{
     max-width: 400px !important;
     width: 400px;
 }
+#links{
+    user-select: none;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    padding: 2px;
+    border-radius: 14px;
+}
+#links:hover{
+    color: aquamarine;
+}
