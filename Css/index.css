@@ -18,7 +18,6 @@
 }
 
 
-
 /* Styles for medium-sized devices */
 @media (min-width: 768px) {
     .MainImages img {
@@ -62,9 +61,6 @@
     margin: auto;
     color: white;
 }
-#image1{
-    float: left;
-}
 .close{
     float: right;
     float: top;
@@ -87,3 +83,27 @@ body.dark{
 
 }
 */
+#tekst{
+    margin: 2%;
+}
+.MARK{
+    color: aqua;
+}
+.tekstHEADLINE{
+    color: gold;
+}
+#IMGG{
+    height: 400px;
+    max-width: 500px !important;
+    width: 500px;
+}
+#IMGCONFIGURATION{
+    height: 400px;
+    max-width: 400px !important;
+    width: 400px;
+}
+#IMGGGG{
+    height: 200px;
+    max-width: 400px !important;
+    width: 400px;
+}
