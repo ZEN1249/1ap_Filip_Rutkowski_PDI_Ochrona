@@ -118,3 +118,17 @@ body.dark{
 #links:hover{
     color: aquamarine;
 }
+#listaa{
+    max-width: 582px;
+    max-height: 435px;
+    width: 582px;
+    height: 435px;
+}
+#Titus{
+    color: blue;
+    user-select: none;
+    text-decoration: none;
+}
+#Titus:hover{
+    color: rgb(101, 101, 247);
+}
