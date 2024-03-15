@@ -108,6 +108,11 @@ body.dark{
     max-width: 400px !important;
     width: 400px;
 }
+#IMGGGGGG{
+    height: 200px;
+    max-width: 300px !important;
+    width: 300px;
+}
 #links{
     user-select: none;
     text-decoration: none;
